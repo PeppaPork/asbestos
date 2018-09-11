@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "KLKevinching PeppaPork DanCatJunior",
+  "author": "KLKevinching PeppaPork YPStanley",
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.16.3",
-    "knex": "^0.15.2"
+    "knex": "^0.15.2",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "dynamo",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "YPStanley PeppaPork KLKevinching",
+  "homepage": "http://on9.host/",
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
@@ -34,5 +34,5 @@
     "@ionic/app-scripts": "3.2.0",
     "typescript": "~2.6.2"
   },
-  "description": "An Ionic project"
+  "description": "Frontend powered by ionic to provide the UI for operation dynamo."
 }
