@@ -2,7 +2,7 @@
   "name": "dynamo",
   "version": "0.0.1",
   "description": "Backend powered by node and postgre to support ASK projects.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.16.3",
+    "firebase": "^5.5.0",
     "knex": "^0.15.2",
     "pg": "^7.4.3"
   },
